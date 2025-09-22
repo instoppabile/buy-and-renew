@@ -61,10 +61,8 @@ The **buy-and-renew** contract performs the entire process in one atomic workflo
 
 ---
 
-## Future Improvements
-- Add support for **configurable marketplace fees**.  
-- Integration with more marketplaces.  
-- Event logging for better on-chain traceability.  
+## Website
+-  Visit https://bns.one for more features
 
 ---
 
